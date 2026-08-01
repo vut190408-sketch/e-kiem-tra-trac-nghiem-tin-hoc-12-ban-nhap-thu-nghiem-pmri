@@ -1,0 +1,67 @@
+{
+  "Đề kiểm tra trắc nghiệm Tin học 12 (Bản nháp thử nghiệm)": {
+    "version": "2.0",
+    "sections": [],
+    "materials": [],
+    "questions": [
+      {
+        "id": "q_temp_1785624015008_0.7807847674566611",
+        "section_id": null,
+        "material_id": null,
+        "type": "multiple_choice",
+        "order": 1,
+        "question": "Câu 1: Thiết bị nào sau đây dùng để kết nối mạng máy tính và định tuyến các gói tin giữa các mạng khác nhau?",
+        "options": {
+          "A": "Switch",
+          "B": "Router",
+          "C": "Hub",
+          "D": "Repeater"
+        },
+        "correct_answers": [
+          "A"
+        ]
+      },
+      {
+        "id": "q_temp_1785624015012_0.08551792145166015",
+        "section_id": null,
+        "material_id": null,
+        "type": "multiple_choice",
+        "order": 2,
+        "question": "Câu 2: Trong ngôn ngữ SQL, câu lệnh nào được sử dụng để truy vấn dữ liệu từ bảng?",
+        "options": {
+          "A": "INSERT",
+          "B": "UPDATE",
+          "C": "SELECT",
+          "D": "DELETE"
+        },
+        "correct_answers": [
+          "A"
+        ]
+      },
+      {
+        "id": "q_temp_1785624015013_0.6593576699035405",
+        "section_id": null,
+        "material_id": null,
+        "type": "true_false",
+        "order": 3,
+        "question": "Câu 3: Xét các phát biểu sau về mạng máy tính:",
+        "options": {
+          "A": "Mạng không dây Wi-Fi sử dụng sóng vô tuyến để truyền tải dữ liệu.",
+          "B": "Giao thức HTTP mã hóa toàn bộ dữ liệu theo mặc định."
+        },
+        "correct_answers": [
+          "B"
+        ]
+      },
+      {
+        "id": "q_temp_1785624015014_0.8792183485284488",
+        "section_id": null,
+        "material_id": null,
+        "type": "short_answer",
+        "order": 4,
+        "question": "Câu 4: IPv4 sử dụng bao nhiêu bit để đánh địa chỉ?",
+        "correct_answers": []
+      }
+    ]
+  }
+}
